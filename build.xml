@@ -4,8 +4,8 @@
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
  
-    <property name="main-class"  value="Hello"/>
-	<property name="main-class"  value="Telephone"/>
+    <property name="main-class"  value="Telephone"/>
+	<
  
     <target name="clean">
         <delete dir="${dir.build}"/>
